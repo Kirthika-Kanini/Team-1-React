@@ -1,0 +1,98 @@
+.exp1 {
+  width: 100%;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150%;
+    color: #626d8a;
+    padding-right: 10%;
+    text-align: justify;
+  }
+  .imgBanner{
+    height: 400px ;
+    object-fit: cover;
+    width: 100%;
+   
+  }
+  .exp2 {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150%;
+    color: #626d8a;
+    padding-right: 10%;
+    text-align: justify;
+  }
+  
+  .btn-group {
+    display: flex;
+  
+    box-sizing: border-box;
+    height: 32px;
+    border: 1px solid gray;
+    border-radius: 8px;
+  }
+  .back {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #303840;
+  }
+  
+  .available {
+    float: right;
+    position: absolute;
+    font-weight: 400;
+    font-size: 10px;
+    top: 33rem;
+    right: 13rem;
+    color: #1f2131;
+  }
+  .about {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    color: #1f2131;
+  }
+  .footerlefttext {
+    position: absolute;
+    margin-left: 130px;
+    font-size: 16px;
+    color: #8b909a;
+  }
+  
+  .footerrighttext {
+    margin-right: 130px;
+    float: right;
+    font-size: 16px;
+    color: #8b909a;
+  }
+  .hr {
+    width: 100%;
+    height: 0px;
+  
+    border: 1px solid #eae9ea;
+  }
+  .eventName {
+    font-style: normal;
+    font-size: large;
+    font-weight: 500;
+    font-weight: 600;
+    font-size: 23px;
+    line-height: 38px;
+    color: #000000;
+  }
+  .Text {
+    font-size: small;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .btn-default {
+    border: 0.5px solid;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #626d8a;
+  }

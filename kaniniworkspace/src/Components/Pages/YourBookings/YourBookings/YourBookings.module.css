@@ -1,0 +1,28 @@
+.section {
+  margin: 0 5%;
+}
+.filterButton {
+  display: flex;
+  gap: 1%;
+  margin: 2% 0;
+}
+.filterButton > button {
+  font-size: 1rem !important;
+  border-radius: 4px;
+  padding: 0.1rem 0.6rem;
+  background-color: white;
+  border: 1px solid #c4c4c4;
+}
+.filterButton > button:focus {
+  background-color: rgba(81, 98, 246, 0.18);
+  color: "#5162f6";
+}
+@media (max-width: 768px) {
+  .filterButton {
+    padding: 0.1rem 0.6rem;
+  }
+
+  .filterButton button {
+    margin: 5px 0;
+  }
+}
